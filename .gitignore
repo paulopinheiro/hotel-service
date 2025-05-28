@@ -17,3 +17,4 @@ nbactions.xml
 /hotel-service-persistence/target/
 /hotel-service-core/target/
 /hotel-service-web/target/
+/hotel-service-model/target/
